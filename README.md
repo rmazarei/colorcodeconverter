@@ -5,6 +5,9 @@
 [![Quality Score](https://img.shields.io/scrutinizer/g/laracon21/colorcodeconverter.svg?style=flat-square)](https://scrutinizer-ci.com/g/laracon21/colorcodeconverter)
 [![Total Downloads](https://img.shields.io/packagist/dt/laracon21/colorcodeconverter.svg?style=flat-square)](https://packagist.org/packages/laracon21/colorcodeconverter)
 
+IT IS AN UPDATED VERSION WITHOUT CHECK/TEST.
+FOR PERSONAL USE.
+
 This is where your description should go. Try and limit it to a paragraph or two, and maybe throw in a mention of what PSRs you support to avoid any confusion with users and contributors.
 
 ## Installation

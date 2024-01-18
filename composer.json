@@ -1,22 +1,23 @@
 {
-    "name": "laracon21/colorcodeconverter",
+    "name": "rmazarei/colorcodeconverter",
     "description": "My awesome package",
     "keywords": [
+        "roohi",
         "laracon21",
         "colorcodeconverter"
     ],
-    "homepage": "https://github.com/laracon21/colorcodeconverter",
+    "homepage": "https://github.com/rmazarei/colorcodeconverter",
     "license": "MIT",
     "type": "library",
     "authors": [
         {
-            "name": "Jane Doe",
-            "email": "developer.activeitzone@gmail.com",
+            "name": "Jane Doe & Rouhollah Mazarei",
+            "email": "rouhollah@gmail.com",
             "role": "Developer"
         }
     ],
     "require": {
-        "php": "^7.3",
+        "php": "^8.0",
         "illuminate/support": "*"
     },
     "require-dev": {
